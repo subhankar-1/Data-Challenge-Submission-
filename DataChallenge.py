@@ -19,7 +19,7 @@ def crawl_and_scrap_webpages(driver):
     for wp in web_pages:                                                  #crawl through each web page
         driver.get(url+wp)                                                #browse this web page automatically
         extracted_page_source = driver.page_source
-        soup = BeautifulSoup(extracted_page_source,"lxml")                #handle the pagesource to beautifulsoup
+        soup = BeautifulSoup(extracted_page_source,"lxml")                #hand over the pagesource to beautifulsoup
         table = soup.find('table',{'class':'wikitable sortable'})           #find table with classname 'wikitable sortable' 
         if(table!=None):                                            #if table not found continue
             for table_row in table.find_all('tr'):                          #iterate through each row of table
