@@ -1,0 +1,38 @@
+Data Challenge
+A key part of engineering at Anywhr is building data engineering solutions to support both travellers and trip curators. Following are a few data acquisition problem statements. You need to choose one and come up with a solution for the same -
+
+Many travellers are often interested in visiting famous spots where movies were shot. How can we build a database of such famous spots?
+Acquire list of all tourist destinations in the world
+Find postal codes of all airports in the world
+
+Evaluation
+
+Note that you would be evaluated not only on the degree of completeness of the solution but also how you think, design, test and execute your data acquisition strategy.
+
+Although your data will speak volumes about both your aptitude and execution abilities, we understand that you are constrained by time and are more curious to know how you think about various aspects of data acquisition and how effective and convincing is your strategy.
+
+We expect you to prepare a 2 page blueprint of the solution to any of the above problems you choose to solve.
+
+We would also like to see you demonstrate your coding skills to quickly conjure up a crawler targeted at selected data source(s). Please send us a link to the repository (e.g. Github, Bitbucket...) where you host your code.
+
+Technology Stack
+
+Although Python is the favorite language of most data engineers, we understand that everyone has their own favorite weapons to win the battle.
+
+Our team’s combined know how allows us to read code in following languages -
+Java
+Python
+Javascript
+
+You can still choose to write code in alternative languages if you are not comfortable with the above.
+
+Expected Deliverable
+
+Once done, please share both the document and your code repository. Please make sure you include a README that contains local setup instructions.
+
+Submission
+
+You are expected to submit the solution within 48 hrs of receiving this challenge. If you have any questions/doubts, you can reach out on the email address you receive this problem from.
+
+You can make your submission with Subject as “Data Challenge Submission”
+
