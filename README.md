@@ -35,8 +35,4 @@ Install CSV using Anaconda:
 	$ conda install -c anaconda csv
 
 
-Load the Data_Challenge.ipynb and execute it through anaconda.
-
-		Or
-
-Execute the valuable.py file
+Load the Data_Challenge.ipynb and execute it through anaconda OR  Execute the valuable.py file
