@@ -6,7 +6,7 @@ The following libraries are needed for successfully executing the code:
 	3)Geckodriver
 	4)Pandas
 	5)csv
-	The preferred system is Ubuntu 16.04 and Anaconda environment.
+	The preferred system is Ubuntu 16.04 and Anaconda environment.And Firefox browser has to be present in the system.
 
 Installing selenium using Anaconda:
 	
